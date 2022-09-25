@@ -1,0 +1,12 @@
+C:\Projects\real estate\Estate.erp\Estate.erp.Dto\bin\Debug\net6.0\Estate.erp.Dto.deps.json
+C:\Projects\real estate\Estate.erp\Estate.erp.Dto\bin\Debug\net6.0\Estate.erp.Dto.dll
+C:\Projects\real estate\Estate.erp\Estate.erp.Dto\bin\Debug\net6.0\Estate.erp.Dto.pdb
+C:\Projects\real estate\Estate.erp\Estate.erp.Dto\obj\Debug\net6.0\Estate.erp.Dto.csproj.AssemblyReference.cache
+C:\Projects\real estate\Estate.erp\Estate.erp.Dto\obj\Debug\net6.0\Estate.erp.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\real estate\Estate.erp\Estate.erp.Dto\obj\Debug\net6.0\Estate.erp.Dto.AssemblyInfoInputs.cache
+C:\Projects\real estate\Estate.erp\Estate.erp.Dto\obj\Debug\net6.0\Estate.erp.Dto.AssemblyInfo.cs
+C:\Projects\real estate\Estate.erp\Estate.erp.Dto\obj\Debug\net6.0\Estate.erp.Dto.csproj.CoreCompileInputs.cache
+C:\Projects\real estate\Estate.erp\Estate.erp.Dto\obj\Debug\net6.0\Estate.erp.Dto.dll
+C:\Projects\real estate\Estate.erp\Estate.erp.Dto\obj\Debug\net6.0\refint\Estate.erp.Dto.dll
+C:\Projects\real estate\Estate.erp\Estate.erp.Dto\obj\Debug\net6.0\Estate.erp.Dto.pdb
+C:\Projects\real estate\Estate.erp\Estate.erp.Dto\obj\Debug\net6.0\ref\Estate.erp.Dto.dll

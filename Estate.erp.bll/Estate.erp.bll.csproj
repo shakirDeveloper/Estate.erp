@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Helpers\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Estate.erp.dal\Estate.erp.dal.csproj" />
+    <ProjectReference Include="..\Estate.erp.Interface\Estate.erp.Interface.csproj" />
+  </ItemGroup>
+
+</Project>

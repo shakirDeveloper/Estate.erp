@@ -1,0 +1,14 @@
+C:\Projects\real estate\Estate.erp\Estate.erp.dal\obj\Debug\net6.0\Estate.erp.dal.csproj.AssemblyReference.cache
+C:\Projects\real estate\Estate.erp\Estate.erp.dal\obj\Debug\net6.0\Estate.erp.dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\real estate\Estate.erp\Estate.erp.dal\obj\Debug\net6.0\Estate.erp.dal.AssemblyInfoInputs.cache
+C:\Projects\real estate\Estate.erp\Estate.erp.dal\obj\Debug\net6.0\Estate.erp.dal.AssemblyInfo.cs
+C:\Projects\real estate\Estate.erp\Estate.erp.dal\obj\Debug\net6.0\Estate.erp.dal.csproj.CoreCompileInputs.cache
+C:\Projects\real estate\Estate.erp\Estate.erp.dal\bin\Debug\net6.0\Estate.erp.dal.deps.json
+C:\Projects\real estate\Estate.erp\Estate.erp.dal\bin\Debug\net6.0\Estate.erp.dal.runtimeconfig.json
+C:\Projects\real estate\Estate.erp\Estate.erp.dal\bin\Debug\net6.0\Estate.erp.dal.dll
+C:\Projects\real estate\Estate.erp\Estate.erp.dal\bin\Debug\net6.0\Estate.erp.dal.pdb
+C:\Projects\real estate\Estate.erp\Estate.erp.dal\obj\Debug\net6.0\Estate.erp.dal.dll
+C:\Projects\real estate\Estate.erp\Estate.erp.dal\obj\Debug\net6.0\refint\Estate.erp.dal.dll
+C:\Projects\real estate\Estate.erp\Estate.erp.dal\obj\Debug\net6.0\Estate.erp.dal.pdb
+C:\Projects\real estate\Estate.erp\Estate.erp.dal\obj\Debug\net6.0\Estate.erp.dal.genruntimeconfig.cache
+C:\Projects\real estate\Estate.erp\Estate.erp.dal\obj\Debug\net6.0\ref\Estate.erp.dal.dll
